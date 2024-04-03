@@ -1,0 +1,36 @@
+{
+  "taskmanager": [
+    {
+      "id": 1,
+      "name": "Do Homework",
+      "description": "Solve exercises 1-3 in React, and exercise 5 in Angular",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190528172635/Angular-vs-ReactJS.png",
+      "isDone": true,
+      "deadlineDate": "2024-02-28"
+    },
+    {
+      "id": 2,
+      "name": "Wash The Car",
+      "description": "To clean the car from the inside, wash the carpets, to wash the car from the outside, use a shiny sponge and water",
+      "image": "https://images.ctfassets.net/c9t6u0qhbv9e/7eR5Ct3Uqb6lEJ77S3B2hN/3af46c496c36c7fc6b1335ac13eb71fc/man-washing-car-in-drive-picture-id174951056.jpg",
+      "isDone": false,
+      "deadlineDate": "2024-03-16"
+    },
+    {
+      "id": 3,
+      "name": "Make a Sandwich",
+      "description": "Make an omelet from 2 eggs on the pan, then put the omelet into the bread and add chopped vegetables",
+      "image": "https://raymonds.recipes/wp-content/uploads/2014/08/microwave-omelette-sandwich-recipe.1024x1024.jpg",
+      "isDone": true,
+      "deadlineDate": "2024-03-22"
+    },
+    {
+      "id": 4,
+      "name": "Go Shopping",
+      "description": "Go to the mall and buy a coat and shoes",
+      "image": "https://1.bp.blogspot.com/-qqTk6-1-Vp0/Wtg7h8RJuAI/AAAAAAAABbI/8lZJd49dW2szT2IQKuqYirBux54OuKp-wCLcBGAs/s1600/shopping-hero-first_card.jpg",
+      "isDone": true,
+      "deadlineDate": "2024-03-15"
+    }
+  ]
+}
