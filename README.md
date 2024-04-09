@@ -1,3 +1,24 @@
+# Task Manager
+A React application for task management.
+<br>
+The application allows you to add/delete a task, as well as track the status of the task execution with the Done/Undone button.
+<br>
+All tasks are sorted by deadline date, tasks with Undone status will appear at the top of the list with a dark color and an X mark.
+<br>
+I used Redux to update the style in the application according to the task status.
+<br>
+The navigation in the application between the pages is done by using Routing.
+<br>
+The app works with server-side json-server, by using Axios in Get, Post, Delete, etc. requests.
+
+## Installing
+* Pull from here
+* Run npm i
+
+## Executing Program
+* Run npm run server
+* Run npm start
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
